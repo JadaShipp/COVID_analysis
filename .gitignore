@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+.DS_Store
+env.py
+c3.csv
+Texas_COVID-19_Fatality_Count_Data_by_County.xlsx
